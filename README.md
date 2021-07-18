@@ -6,4 +6,4 @@ I will make sure that it is a project that will help you connect to the radio st
 <br>
 <a><b>Mail:</b> cihatksm@gmail.com</a>
 <br>
-<a><b>Total visit:</b></a> <img src="https://profile-counter.glitch.me/{CihatKsm-discord-radio-bot}/count.svg">
+<a><b>Total visit:</b></a> <img src="https://views.drizzlydeveloper.gq/discord-radio-bot">
